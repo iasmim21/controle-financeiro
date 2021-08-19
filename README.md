@@ -6,7 +6,7 @@ Com ela, podemos realizar cadastros, editá-los e excluí-los, bem como visualiz
 
 Até o momento os princípios de responsividade e adaptabilidade não foram explorados, sendo metas futuras para o projeto!
 
-![SignUp Mobile](./assets/home.png)
+![SignUp Mobile](./assets/home.PNG)
 
 ### 🛠 Tecnologias
 
